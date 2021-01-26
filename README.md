@@ -35,6 +35,8 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Learning how to specify what kind of send events to use to trigger actions.
+* Kept having localization issues with where labels and such were located on screen.
 
 ## License
 
